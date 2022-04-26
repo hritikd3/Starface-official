@@ -518,6 +518,14 @@ section {
   color: #666;
   font-size: 2rem;
 }
+.deal .content p {
+  color: #666;
+  font-size: 2rem;
+}
+/* .deal .content p ul li {
+  color: #666;
+  font-size: 3rem;
+} */
 
 .featured .featured-slider .slide {
   border-radius: 0.5rem;
@@ -902,6 +910,11 @@ section {
 .footer .box-container .box a i {
   padding-right: 0.5rem;
   color: #eb4d4b;
+}
+.footer .box-container .box ul li {
+  margin:8px;
+  font-size: 12px;
+  color: #575555;
 }
 
 .footer .box-container .box a:hover {
