@@ -695,6 +695,12 @@ section {
   color: #eb4d4b;
 }
 
+.video .wrapper-container{
+  text-align: center;
+  padding: 13px;
+  
+}
+
 .contact .icons-container {
   display: -ms-grid;
   display: grid;
